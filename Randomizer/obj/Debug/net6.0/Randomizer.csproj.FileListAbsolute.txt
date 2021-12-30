@@ -1,0 +1,15 @@
+C:\PS Rahini\Interfaces\Randomizer\bin\Debug\net6.0\Randomizer.exe
+C:\PS Rahini\Interfaces\Randomizer\bin\Debug\net6.0\Randomizer.deps.json
+C:\PS Rahini\Interfaces\Randomizer\bin\Debug\net6.0\Randomizer.runtimeconfig.json
+C:\PS Rahini\Interfaces\Randomizer\bin\Debug\net6.0\Randomizer.dll
+C:\PS Rahini\Interfaces\Randomizer\bin\Debug\net6.0\ref\Randomizer.dll
+C:\PS Rahini\Interfaces\Randomizer\bin\Debug\net6.0\Randomizer.pdb
+C:\PS Rahini\Interfaces\Randomizer\obj\Debug\net6.0\Randomizer.csproj.AssemblyReference.cache
+C:\PS Rahini\Interfaces\Randomizer\obj\Debug\net6.0\Randomizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\PS Rahini\Interfaces\Randomizer\obj\Debug\net6.0\Randomizer.AssemblyInfoInputs.cache
+C:\PS Rahini\Interfaces\Randomizer\obj\Debug\net6.0\Randomizer.AssemblyInfo.cs
+C:\PS Rahini\Interfaces\Randomizer\obj\Debug\net6.0\Randomizer.csproj.CoreCompileInputs.cache
+C:\PS Rahini\Interfaces\Randomizer\obj\Debug\net6.0\Randomizer.dll
+C:\PS Rahini\Interfaces\Randomizer\obj\Debug\net6.0\ref\Randomizer.dll
+C:\PS Rahini\Interfaces\Randomizer\obj\Debug\net6.0\Randomizer.pdb
+C:\PS Rahini\Interfaces\Randomizer\obj\Debug\net6.0\Randomizer.genruntimeconfig.cache

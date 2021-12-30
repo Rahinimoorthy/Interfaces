@@ -1,0 +1,15 @@
+C:\PS Rahini\Interfaces\Car\bin\Debug\net6.0\Car.exe
+C:\PS Rahini\Interfaces\Car\bin\Debug\net6.0\Car.deps.json
+C:\PS Rahini\Interfaces\Car\bin\Debug\net6.0\Car.runtimeconfig.json
+C:\PS Rahini\Interfaces\Car\bin\Debug\net6.0\Car.dll
+C:\PS Rahini\Interfaces\Car\bin\Debug\net6.0\ref\Car.dll
+C:\PS Rahini\Interfaces\Car\bin\Debug\net6.0\Car.pdb
+C:\PS Rahini\Interfaces\Car\obj\Debug\net6.0\Car.csproj.AssemblyReference.cache
+C:\PS Rahini\Interfaces\Car\obj\Debug\net6.0\Car.GeneratedMSBuildEditorConfig.editorconfig
+C:\PS Rahini\Interfaces\Car\obj\Debug\net6.0\Car.AssemblyInfoInputs.cache
+C:\PS Rahini\Interfaces\Car\obj\Debug\net6.0\Car.AssemblyInfo.cs
+C:\PS Rahini\Interfaces\Car\obj\Debug\net6.0\Car.csproj.CoreCompileInputs.cache
+C:\PS Rahini\Interfaces\Car\obj\Debug\net6.0\Car.dll
+C:\PS Rahini\Interfaces\Car\obj\Debug\net6.0\ref\Car.dll
+C:\PS Rahini\Interfaces\Car\obj\Debug\net6.0\Car.pdb
+C:\PS Rahini\Interfaces\Car\obj\Debug\net6.0\Car.genruntimeconfig.cache
